@@ -21,14 +21,13 @@ Com isso, o sistema reduz o tempo de espera, melhora a organização e aumenta a
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-> *(Ajustar conforme o projeto real)*
 
 - 📱 Frontend: React Native / Flutter / Android (Java/Kotlin)  
-- 🌐 Backend: Node.js / Java / Python  
+- 🌐 Backend: Python  
 - 🗄️ Banco de Dados: MySQL / PostgreSQL / Firebase  
 - 🔗 API REST  
 - 🧑‍💻 Versionamento: Git e GitHub  
-- 🎨 Prototipação: Figma / Miro  
+- 🎨 Prototipação: Miro  
 
 ---
 
@@ -36,7 +35,7 @@ Com isso, o sistema reduz o tempo de espera, melhora a organização e aumenta a
 
 ### 🔧 Pré-requisitos
 - Git instalado  
-- Node.js e npm instalados *(ou equivalente da sua stack)*  
+- Node.js e npm instalados
 
 ### ▶️ Passos
 ```bash
