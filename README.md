@@ -22,31 +22,79 @@ Com isso, o sistema reduz o tempo de espera, melhora a organização e aumenta a
 
 ## 🛠️ Tecnologias Utilizadas
 
-- 📱 Frontend: React Native / Flutter / Android (Java/Kotlin)  
+- 📱 Frontend: Python
 - 🌐 Backend: Python  
-- 🗄️ Banco de Dados: MySQL / PostgreSQL / Firebase  
-- 🔗 API REST  
+- 🗄️ Banco de Dados: Supabase
 - 🧑‍💻 Versionamento: Git e GitHub  
-- 🎨 Prototipação: Miro  
+- 🎨 Prototipação: Miro e Figma
 
 ---
 
+## 🔧 Pré-requisitos
+- **Python 3.10 ou superior:** Caso não tenha, baixe em python.org (Marque a opção "Add Python to PATH" durante a instalação).
+- **Conexão com a Internet:** Necessária para validar o login e atualizar os pedidos em tempo real.
+
 ## ⚙️ Como Executar
 
-### 🔧 Pré-requisitos
-- Git instalado  
-- Node.js e npm instalados
-
-### ▶️ Passos
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/f-food.git
+git clone https://github.com/JulianaSandes/CP1_Engenharia_de_Software-.git
+```
 
+```bash
 # Acesse a pasta
-cd f-food
+cd Projeto_F-Food
+```
 
-# Instale as dependências
-npm install
+```bash
+# Abra o seu Terminal ou Prompt de Comando (CMD), navegue até a pasta do projeto e execute o comando abaixo: 
+pip install customtkinter supabase 
+```
 
-# Execute o projeto
-npm start
+```bash
+# *Nota: Se o comando acima falhar, tente usar:*
+python -m pip install customtkinter supabase
+```
+---
+
+## 📂 Estrutura do Projeto
+
+```bash
+Projeto_F-Food/
+├── backend/            # Contém a lógica de backend do projeto
+├── visual/             # Contém os arquivos relacionados ao frontend e interface visual
+├── database.py         # Script de configuração e manipulação do banco de dados
+├── main.py             # Arquivo principal para execução do projeto
+├── _pycache_           # Diretório gerado automaticamente pelo Python para armazenar arquivos compilados
+└── README.md           # Documento com informações sobre o projeto
+```
+
+---
+
+## 🧩 Funcionalidades Implementadas
+- Permitir usuário escolher mais de um item
+- Registrar Pedido e gerar numero do pedido para retirada
+- Status do pedido
+- Histórico de Pedidos
+- Opções forma de pagamento
+
+---
+## 📸 Demonstração
+
+
+---
+
+## 👩‍💻 Integrantes
+- **Arthur Ederson** (Escolha do tema, levantamento de requisitos, desenvolvimento Python, gravação da demo)
+- **Arthur Gouvea** (Escolha do tema, levantamento de requisitos, personas, SRS simplificado)
+- **Clara Jullia Kondrasovas** (Escolha do tema, levantamento de requisitos, SRS simplificado)
+- **Juliana Sandes** (Escolha do tema, criação do repositório, levantamento de requisitos, documentação)
+- **Lucas Cima** (Escolha do tema, board no Miro, levantamento de requisitos, diagramas UML no Miro)
+
+---
+## 🔗 Links
+- Repositório: https://github.com/JulianaSandes/CP1_Engenharia_de_Software-.git
+- Miro: https://miro.com/app/board/uXjVGq5z4lU=/?share_link_id=272181486856
+- Vídeo:
+
+
