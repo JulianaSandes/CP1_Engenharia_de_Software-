@@ -72,11 +72,14 @@ Projeto_F-Food/
 ---
 
 ## 🧩 Funcionalidades Implementadas
-- Permitir usuário escolher mais de um item
-- Registrar Pedido e gerar numero do pedido para retirada
-- Status do pedido
-- Histórico de Pedidos
-- Opções forma de pagamento
+- UC01 - Fazer Cadastro
+- UC02 - Consultar Cardápio
+- UC03 - Realizar Pedido e Pagamento
+- UC04 - Gerenciar Fila de Preparo (Status)
+- UC05 - Validar Entrega de Pedido
+- UC06 - Gerenciar Estoque e Itens
+- UC07 - Visualizar Relatórios de Vendas
+- UC08 - Gerenciar Usuários e Segurança
 
 ---
 ## 📸 Demonstração
