@@ -83,8 +83,12 @@ Projeto_F-Food/
 
 ---
 ## 📸 Demonstração
-- Tela Inicial
-<img width="738" height="1280" alt="image" src="https://github.com/user-attachments/assets/eccc5149-4ef3-4575-99a6-2b40c45a8ab3" />
+
+<div align="center">
+  <img src="<img width="738" height="1280" alt="image" src="https://github.com/user-attachments/assets/c210f129-26d8-4f80-8add-9bcaf7c4de5c" />
+"300px" />
+  <p><i>Legenda: - Tela Inicial</i></p>
+</div>
 
 ---
 
