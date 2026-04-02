@@ -83,8 +83,16 @@ Projeto_F-Food/
 
 ---
 ## 📸 Demonstração
-
+- Telas do App
 <img width="300" height="1280" alt="image" src="https://github.com/user-attachments/assets/0f85245f-a28c-48f8-a36b-2dcf60f5244c" />
+<img width="300" height="1280" alt="image" src="https://github.com/user-attachments/assets/ebfbaa5a-b69f-4d7f-b25a-4ccdef0744bb" />
+<img width="300" height="1280" alt="image" src="https://github.com/user-attachments/assets/ac64c499-c266-49c0-82a7-2f664fcdf182" />
+<img width="300" height="1280" alt="image" src="https://github.com/user-attachments/assets/4f440ca6-4de8-49ce-91ee-84c4d6fd060e" />
+<img width="300" height="1280" alt="image" src="https://github.com/user-attachments/assets/8ff0a541-0ca3-49c4-af56-3552b1a15f74" />
+<img width="300" height="1280" alt="image" src="https://github.com/user-attachments/assets/2a6dcaee-2e56-4624-ba5e-10beddcc9d83" />
+<img width="300" height="1280" alt="image" src="https://github.com/user-attachments/assets/8aac68bd-5a50-4ffa-873e-b6a9f3d91f81" />
+<img width="300" height="1280" alt="image" src="https://github.com/user-attachments/assets/9639f000-28fe-4522-989f-69b59a104339" />
+
 
 
 ---
