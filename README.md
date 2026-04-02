@@ -108,6 +108,6 @@ Projeto_F-Food/
 ## 🔗 Links
 - Repositório: https://github.com/JulianaSandes/CP1_Engenharia_de_Software-.git
 - Miro: https://miro.com/app/board/uXjVGq5z4lU=/?share_link_id=272181486856
-- Vídeo:
+- Vídeo: https://youtu.be/OLF9XOC8TfE
 
 
